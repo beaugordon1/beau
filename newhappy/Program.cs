@@ -10,6 +10,7 @@ namespace newhappy
     {
         static void Main(string[] args)
         {
+            //here is a comment
         }
     }
 }
