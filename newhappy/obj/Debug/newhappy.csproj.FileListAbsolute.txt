@@ -1,0 +1,6 @@
+C:\beau\newhappy\bin\Debug\newhappy.exe.config
+C:\beau\newhappy\bin\Debug\newhappy.exe
+C:\beau\newhappy\bin\Debug\newhappy.pdb
+C:\beau\newhappy\obj\Debug\newhappy.csprojResolveAssemblyReference.cache
+C:\beau\newhappy\obj\Debug\newhappy.exe
+C:\beau\newhappy\obj\Debug\newhappy.pdb
